@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<servlet>
+ <description></description>
+ <display-name>at</display-name>
+ <servlet-name>at</servlet-name>
+ <servlet-class>advanced.java.program.RetriveProduct</servlet-class>
+ </servlet>
+ <servlet-mapping>
+ <servlet-name>at</servlet-name>
+ <url-pattern>/retrive</url-pattern>
+ </servlet-mapping>
